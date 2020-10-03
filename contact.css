@@ -1,0 +1,106 @@
+/**{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(imgprep/120019315_369164911106815_6119108797119214865_n.jpg);
+    background-size;
+    background-repeat: repeat;
+    margin:0;
+     
+}
+
+h3{
+    color: blue;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(imgprep/WhatsApp\ Image\ 2020-09-23\ at\ 00.15.40.jpeg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3em;
+    margin: 2em;
+}
+
+ */
+ *{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(imgprep/120019315_369164911106815_6119108797119214865_n.jpg);
+    background-repeat: repeat;
+    
+   
+}
+ 
+.container{
+    width: 80%;
+    height: 100%;
+    background-image: url(imgprep/WhatsApp\ Image\ 2020-09-23\ at\ 00.15.40.jpeg);
+    border-radius:0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+
+#meniu{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    margin-top: 5%;
+    padding: 3em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    margin-top: 5%;
+    font-size: 3.5em;
+}
+
+ 
+h3{
+    font-size: 2em;
+    color: blue;
+    padding: 1em;
+}
+
+p{
+    font-size: 1em;
+}
+
+(4 mici, cartofi, muștar, chiflă)
+(1 frigăruie, cartofi, salată de varză, chiflă) 
+(piept de pui, cartofi, salată de varză, chiflă)
+(burger din carne de mici cu cartofi, salată verde, castraveți murați + doză răcoritoare)
+(ciorbă + felul doi) 
